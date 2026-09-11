@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+<img width="929" height="289" alt="image" src="https://github.com/user-attachments/assets/cb35ff4c-ffef-4057-9f94-b37a442de968" />
+
+
 This project is the first complete Excel project in my 30 Days Excel Challenge.
 
 The goal of this project was to apply the Excel skills learned during the first week to create an expense report that helps a manager understand departmental spending, identify overspending, and make better budget decisions.
