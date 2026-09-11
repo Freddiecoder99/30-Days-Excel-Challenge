@@ -27,7 +27,7 @@ Example:
 ```
 This extracts the first five characters from A2.
 
-In other instances for example Working with names of any length(Splitting Names - First and Last name):
+# In other instances for example Working with names of any length(Splitting Names - First and Last name):
 
 First Name Formula
 
@@ -36,9 +36,9 @@ First Name Formula
 ```
 How it works:
 
-FIND(" ", B2) = locates the space position
-LEFT() = extracts characters from the left
-"-1" = stops before the space
+* FIND(" ", B2) = locates the space position
+* LEFT() = extracts characters from the left
+* "-1" = stops before the space
 
 Example: "Kevin Robertson" → "Kevin"
 
@@ -54,7 +54,7 @@ Example:
 
 This extracts the last four characters.
 
-When extracting Last name and Working with names of any length
+# When extracting Last name and Working with names of any length
 
 Last Name Formula
 
@@ -64,10 +64,10 @@ Last Name Formula
 
 How it works:
 
-FIND(" ", B2) = locates the space position
-LEN(B2) = total length of the name
-RIGHT() = extracts characters from the right
-Calculates characters after the space
+* FIND(" ", B2) = locates the space position
+* LEN(B2) = total length of the name
+* RIGHT() = extracts characters from the right
+* Calculates characters after the space
 
 Example: "Kevin Robertson" → "Robertson"
 
