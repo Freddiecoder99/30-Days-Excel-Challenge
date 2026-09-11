@@ -27,7 +27,7 @@ Example:
 ```
 This extracts the first five characters from A2.
 
-# In other instances for example Working with names of any length(Splitting Names - First and Last name):
+### In other instances for example Working with names of any length(Splitting Names - First and Last name):
 
 First Name Formula
 
@@ -54,7 +54,7 @@ Example:
 
 This extracts the last four characters.
 
-# When extracting Last name and Working with names of any length
+### When extracting Last name and Working with names of any length
 
 Last Name Formula
 
