@@ -28,6 +28,12 @@ The goal is to understand not only how Excel features work, but also how they ca
 | Day 6 | Conditional Formatting Part 1 | ✅ Completed    |
 | Day 7 | Week 1 Guided Project         | ✅ Completed    |
 | Day 8 | Logical Functions             | ✅ Completed    |
+| Day 9 | Text Functions                | ✅ Completed    |
+| Day 10| Aggregate Functions           | ✅ Completed    |
+| Day 11| Pivot Tables(Part 1)          | ✅ Completed    |
+| Day 12| Pivot Tables(Part 2)          | ✅ Completed    |
+| Day 13| Data Validation               | ✅ Completed    |
+| Day 14| Week 2 Project                | ✅ Completed    |
 
 ## Week 1 Skills
 
