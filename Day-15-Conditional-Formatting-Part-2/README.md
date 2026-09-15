@@ -30,6 +30,11 @@ The `WEEKDAY` function returns a number representing the day of the week.
 
 For example, a formula can be used to determine whether an order date falls on a Saturday or Sunday.
 
+For Example:
+
+Highlight orders placed on a weekend (Sat/Sun)
+Rule (Formula is, applied to A2:G359): =WEEKDAY($D2,2)>5  -> WEEKDAY(date,2) returns 1=Mon...6=Sat,7=Sun, so >5 flags Saturday or Sunday.
+
 This demonstrates how formulas can be combined with conditional formatting to create more useful business rules.
 
 ### Top 10% Revenue Products
