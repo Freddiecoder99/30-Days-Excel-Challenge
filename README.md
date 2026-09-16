@@ -34,6 +34,8 @@ The goal is to understand not only how Excel features work, but also how they ca
 | Day 12| Pivot Tables(Part 2)          | ✅ Completed    |
 | Day 13| Data Validation               | ✅ Completed    |
 | Day 14| Week 2 Project                | ✅ Completed    |
+| Day 15| Conditional Formatting(Part 2)| ✅ Completed    |
+| Day 16| VLOOKUP + HLOOKUP             | ✅ Completed    |
 
 ## Week 1 Skills
 
