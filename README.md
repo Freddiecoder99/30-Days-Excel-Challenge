@@ -37,6 +37,7 @@ The goal is to understand not only how Excel features work, but also how they ca
 | Day 15| Conditional Formatting(Part 2)| ✅ Completed    |
 | Day 16| VLOOKUP + HLOOKUP             | ✅ Completed    |
 | Day 17| INDEX + MATCH                 | ✅ Completed    |
+| Day 18| XLOOKUP                       | ✅ Completed    |
 
 ## Week 1 Skills
 
