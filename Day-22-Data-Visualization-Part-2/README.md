@@ -1,3 +1,5 @@
+<img width="826" height="479" alt="image" src="https://github.com/user-attachments/assets/130070a1-b0f4-4d64-a29c-8bb3343ec179" />
+
 # Day 22: Data Visualisation (Part 2)
 
 ## Overview
