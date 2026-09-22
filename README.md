@@ -38,6 +38,11 @@ The goal is to understand not only how Excel features work, but also how they ca
 | Day 16| VLOOKUP + HLOOKUP             | ✅ Completed    |
 | Day 17| INDEX + MATCH                 | ✅ Completed    |
 | Day 18| XLOOKUP                       | ✅ Completed    |
+| Day 19| Data Cleaning                 | ✅ Completed    |
+| Day 20| Power Query 1                 | ✅ Completed    |
+| Day 21| Week 3 Project                | ✅ Completed    |
+| Day 22| Data Visualization (Part 2)   | ✅ Completed    |
+| Day 23| Dynamic array functions       | ✅ Completed    |
 
 ## Week 1 Skills
 
