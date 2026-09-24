@@ -64,7 +64,7 @@ January.csv
 February.csv
 March.csv
 April.csv
-````
+
 
 These files can be combined into one table.
 
@@ -81,7 +81,7 @@ Instead of manually retyping information, Power Query can identify available tab
 ## Custom Columns
 
 Power Query allows analysts to create custom columns using logical conditions.
-
+````
 One example is IF-ELSE logic.
 
 For example:
