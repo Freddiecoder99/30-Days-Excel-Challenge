@@ -1,4 +1,3 @@
-````markdown
 # Day 27: Automating With Macros
 
 ## Overview
@@ -399,4 +398,3 @@ This is useful for data analysis because recurring reports and dashboards often 
 ## Learning Resource
 
 30 Day Excel Challenge by SDW Online.
-````
