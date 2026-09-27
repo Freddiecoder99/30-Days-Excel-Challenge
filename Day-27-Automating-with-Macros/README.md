@@ -311,39 +311,6 @@ Dashboard
 
 The workflow was then combined into a master macro.
 
-## Business Exercise: Charity Donations
-
-In the first exercise, I recorded a macro to format charity donations data.
-
-The macro automated:
-
-- Header formatting
-- Currency formatting
-- Borders
-- General presentation
-
-This showed how repetitive formatting tasks can be automated.
-
-## Business Exercise: Data Quality Report
-
-In the second exercise, I created a macro for a data quality summary report.
-
-The macro automated the steps required to check and summarize data quality issues.
-
-I then tested the macro on a new dataset to see whether the recorded process could be reused.
-
-## Business Exercise: Automated Dashboard
-
-In the third exercise, I created a dashboard macro.
-
-The macro generated:
-
-- A data quality summary
-- A bar chart
-- A pie chart
-
-I also used VBA to correct the chart positioning after the macro was run.
-
 ## Skills Practiced
 
 Today I practiced:
