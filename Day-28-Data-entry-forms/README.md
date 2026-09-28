@@ -476,6 +476,3 @@ This exercise gave me a better understanding of how Excel can be used to create 
 ## Learning Resource
 
 30 Day Excel Challenge by SDW Online.
-
-```
-```
